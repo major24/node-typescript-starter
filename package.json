@@ -9,7 +9,8 @@
     "test": "tsc && mocha dist/**/*.spec.js",
     "lint": "eslint src --ext ts",
     "tsc": "tsc",
-    "serve": "node dist/index"
+    "serve": "node dist/index",
+    "console": "node dist/console-app/index-console"
   },
   "keywords": [],
   "author": "",
