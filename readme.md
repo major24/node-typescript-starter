@@ -1,3 +1,8 @@
+<html>
+  <body>
+    <s>test</s>
+  </body>
+</html>
 # node-typescript-starter
 # contains node with typescript starter project
 enables es6 module
